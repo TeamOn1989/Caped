@@ -219,7 +219,7 @@ a {
     font-weight: 800;
     font-size: 30px;
     line-height: 47px;
-    padding: 72px 124px;
+    padding: 72px 110px 61px 110px;
 }
 
 .sale {
@@ -319,7 +319,7 @@ a {
     font-size: 26px;
     line-height: 40px;
     color: #001AA2;
-    padding: 62px 331px 3px 30px;
+    padding: 62px 300px 3px 30px;
 }
 
 .trending_desc {
@@ -327,7 +327,7 @@ a {
     font-weight: 400;
     font-size: 15px;
     line-height: 23px;
-    padding: 0 270px 52px 30px;
+    padding: 0 220px 52px 30px;
     color: black;
 }
 
@@ -346,7 +346,7 @@ a {
     font-size: 26px;
     line-height: 40px;
     color: #FD2E24;
-    padding: 61px 242px 3px 30px;
+    padding: 61px 220px 3px 30px;
 }
 
 .buyit_desc {
@@ -354,7 +354,7 @@ a {
     font-weight: 400;
     font-size: 15px;
     line-height: 23px;
-    padding: 0 247px 53px 30px;
+    padding: 0 207px 53px 30px;
     color: black;
 }
 
